@@ -29,6 +29,6 @@ Project support:
    :target: https://coveralls.io/r/mjdorma/funconf?branch=master
    :alt: Latest PyPI version
 
-.. |pypi_version| image:: https://pypip.in/v/funconf/badge.png
+.. |pypi_version| image:: https://img.shields.io/pypi/v/funconf.svg
    :target: https://crate.io/packages/funconf/
    :alt: Latest PyPI version
